@@ -51,6 +51,8 @@ function crossFinishItem(){
         this.parentNode.style.color= "black";
     }
 }
+
+//checkTime
 const checkTimeThenDisplayMessage = () => {
     let d = new Date();
     let hours =d.getHours();

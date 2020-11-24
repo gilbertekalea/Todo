@@ -12,13 +12,11 @@ body {
 }
 
 h1 {
-    /* font-family: 'Allan', cursive; */
     font-family: 'Oswald', sans-serif;
     font-size: 30px;
     color:rgba(0, 0, 0, 0.89);
     text-align: center;
     text-transform: uppercase;
-    /* letter-spacing: .3em; */
 }
 
 p {
