@@ -1,0 +1,59 @@
+html{
+    box-sizing: border-box;
+}
+body {
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    /* font-family: 'Allan', cursive; */
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color:rgba(0, 0, 0, 0.89);
+    text-align: center;
+    text-transform: uppercase;
+    /* letter-spacing: .3em; */
+}
+
+p {
+    font-family: 'Fondamento', cursive; 
+    font-weight: 400;
+    font-size: 20px;
+    font-size: larger;
+}
+.input {    
+    font-family: monospace;
+    font-size: medium;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 30%;
+    padding:15px;
+}
+ul {
+    list-style-type: none;
+}
+
+.addme {
+   background-color:rgb(0, 0, 0); 
+   font-size: large;
+    color: white;
+    width: 80px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top:10px;
+} 
+/* .container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    justify-content: center;
+    background-color: white;
+    margin: 20px;
+    box-shadow: 10px 10px 5px black;
+} */
